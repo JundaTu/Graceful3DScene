@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <meta charset="utf-8" />
+    <title>The Excavator and its Friends</title>
+  </head>
+
+  <body onload="main()" onresize="winResize()" onselectstart="return false">
+  <center>
+      <div class="BG"><h1>Welcome to the world of Excavator and its Friends!</h1>
+    Attention！If you see nothing in the viewports, please check your browser security configuration.<br><br>
+   <div class="Content">       1.	Drive the excavator using <a class="Bold">arrow keys</a>.<br>
+          2.	Change the motion of the excavator’s arm: using <a class="Bold">keypad “num1/num4” “num2/num5” “num3/num6”</a>.<br>
+          3.	Change camera view using <a class="Bold">"W/S/A/D"</a> or <a class="Bold">mouse your mouse</a>. Change  FOV using <a class="Bold">mouse wheel</a>.<br>
+          4.	Change main viewport camera using <a class="Bold">“1” “2” “3”</a>. Switch between orthographic and perspective camera using<a class="Bold"> “P”</a>.<br>
+          5.	Keeping pressing<a class="Bold"> "1" </a>to switch LookAt target.<br>
+          6.    Show/hide object axis using<a class="Bold"> “Enter”</a>.<br>
+   </div>
+          <canvas id="webgl" width="800" height="400">
+    Please use a browser that supports "canvas"
+    </canvas>
+    <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
+
+    <script src="../lib/webgl-utils.js"></script>
+    <script src="../lib/webgl-debug.js"></script>
+    <script src="../lib/cuon-utils.js"></script>
+    <script src="../lib/cuon-matrix.js"></script>
+    <script src="Input.js"></script>
+    <script src="Camera.js"></script>
+    <script src="Lights.js"></script>
+    <script src="materials.js"></script>
+    <script src="GeoDefinition.js"></script>
+    <script src="GeoData.js"></script>
+
+    <script src="excavator.js"></script>
+
+  </div>
+  </center>
+  </body>
+</html>

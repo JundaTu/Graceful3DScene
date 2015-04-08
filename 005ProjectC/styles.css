@@ -1,0 +1,26 @@
+.BG
+{
+    padding: 10px 10px 0px 10px;
+    background-color: #25122d;
+    width:90%;
+    color: white;
+    font: "Futura T W01 Demi", Arial, Helvetica, sans-serif
+
+}
+h1{
+    color: #fdd5ff;
+    font-family:Georgia;
+}
+
+.Content{
+    text-align: left;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.Bold
+{
+    color: greenyellow;
+    font-weight:bold;
+    font-family:Georgia;
+}
