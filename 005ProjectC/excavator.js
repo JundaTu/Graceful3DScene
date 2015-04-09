@@ -600,7 +600,7 @@ function Stop(){
 }
 
 function winResize() {
-    canvas.width = innerWidth*0.88;
+    canvas.width = innerWidth*0.96;
     canvas.height = innerHeight*0.6;
 
 }

@@ -23,30 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="excavator.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="excavator.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/excavator.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="49" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.5229358" vertical-offset="0" max-vertical-offset="893">
+            <state line="21" column="13" selection-start="1313" selection-end="1313" vertical-scroll-proportion="-13.5" vertical-offset="21" max-vertical-offset="893">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="excavator.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/excavator.js">
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="154" column="67" selection-start="5724" selection-end="5724" vertical-scroll-proportion="0.0" vertical-offset="2394" max-vertical-offset="11609">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="10" column="19" selection-start="170" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="589">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlingBlingScene.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../2_EECS 395_495 Intermediate Graphics/Projects/ProjectB_RayTracing/BlingBlingScene.js">
+      <file leaf-file-name="excavator.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/excavator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="24" selection-start="887" selection-end="892" vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="11134">
+            <state line="592" column="11" selection-start="24238" selection-end="24238" vertical-scroll-proportion="0.6572717" vertical-offset="10646" max-vertical-offset="11590">
               <folding />
             </state>
           </provider>
@@ -75,9 +73,9 @@
         <option value="$PROJECT_DIR$/excavator.html" />
         <option value="$PROJECT_DIR$/materials.js" />
         <option value="$PROJECT_DIR$/Input.js" />
-        <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/GeoData.js" />
         <option value="$PROJECT_DIR$/GeoDefinition.js" />
+        <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/excavator.js" />
       </list>
     </option>
@@ -163,6 +161,14 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -173,23 +179,15 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -233,11 +231,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32486632" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32486632" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -254,9 +252,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16276124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -280,6 +278,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/excavator.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="49" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="893">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excavator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="154" column="67" selection-start="5724" selection-end="5724" vertical-scroll-proportion="0.0" vertical-offset="2394" max-vertical-offset="11609">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excavator.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="106" selection-start="915" selection-end="915" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="874">
           <folding />
         </state>
@@ -288,9 +300,7 @@
     <entry file="file://$PROJECT_DIR$/excavator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="104" column="0" selection-start="3781" selection-end="3781" vertical-scroll-proportion="0.0" vertical-offset="1976" max-vertical-offset="8360">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -324,9 +334,7 @@
     <entry file="file://$PROJECT_DIR$/excavator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="104" column="0" selection-start="3781" selection-end="3781" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8360">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -360,9 +368,7 @@
     <entry file="file://$PROJECT_DIR$/excavator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="341" column="0" selection-start="12877" selection-end="12877" vertical-scroll-proportion="0.0" vertical-offset="6092" max-vertical-offset="8037">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -391,9 +397,7 @@
     <entry file="file://$PROJECT_DIR$/excavator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="159" column="20" selection-start="5787" selection-end="5787" vertical-scroll-proportion="0.0" vertical-offset="3021" max-vertical-offset="8797">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -427,9 +431,7 @@
     <entry file="file://$PROJECT_DIR$/excavator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="149" column="44" selection-start="5298" selection-end="5298" vertical-scroll-proportion="0.0" vertical-offset="2831" max-vertical-offset="7695">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -508,11 +510,6 @@
         <state line="1032" column="0" selection-start="15679" selection-end="15679" vertical-scroll-proportion="0.33240998" vertical-offset="19368" max-vertical-offset="72447" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="17" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="589" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Input.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="173" column="1" selection-start="2964" selection-end="2964" vertical-scroll-proportion="0.0" vertical-offset="3287" max-vertical-offset="4142" />
@@ -543,30 +540,23 @@
         <state line="5" column="88" selection-start="265" selection-end="265" vertical-scroll-proportion="0.13157895" vertical-offset="0" max-vertical-offset="722" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../003ProjectB/excavator.js">
+    <entry file="file://$PROJECT_DIR$/excavator.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="52" selection-start="2353" selection-end="2363" vertical-scroll-proportion="-1.9552752" vertical-offset="3092" max-vertical-offset="8417" />
+        <state line="21" column="13" selection-start="1313" selection-end="1313" vertical-scroll-proportion="-13.5" vertical-offset="21" max-vertical-offset="893">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../2_EECS 395_495 Intermediate Graphics/Projects/ProjectB_RayTracing/BlingBlingScene.js">
+    <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="24" selection-start="887" selection-end="892" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="11115">
+        <state line="10" column="19" selection-start="170" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="589">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/excavator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="154" column="67" selection-start="5724" selection-end="5724" vertical-scroll-proportion="0.0" vertical-offset="2394" max-vertical-offset="11609">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excavator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="49" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.5229358" vertical-offset="0" max-vertical-offset="893">
+        <state line="592" column="11" selection-start="24238" selection-end="24238" vertical-scroll-proportion="0.6572717" vertical-offset="10646" max-vertical-offset="11590">
           <folding />
         </state>
       </provider>
