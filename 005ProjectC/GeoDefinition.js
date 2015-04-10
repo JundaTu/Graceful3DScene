@@ -19,6 +19,7 @@ function GeoSegment(texturePath){
   //  if(texturePath1)
    // this.IMGN.src =texturePath1;// 'excavator_normal.jpg';
    // else
+    this.IMGN.crossOrigin = '';// 'excavator_normal.jpg';
     this.IMGN.src =null;// 'excavator_normal.jpg';
     //return (this.Parent==null?this.LocalTransform:this.LocalTransform.multiply(this.Parent.GetMvpMatrix()));
 }//GeoObject
