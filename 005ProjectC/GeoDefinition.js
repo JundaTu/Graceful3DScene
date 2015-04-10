@@ -13,19 +13,19 @@ function GeoSegment(texturePath){
     this.Transform=new Matrix4();
     this.Transform.set(this.LocalTransform);
 
-    if (texturePath!=null)
+    if (texturePath)
     {
         this.IMG=new Image();  // Create the image object
         this.IMG.crossOrigin = '';
         this.IMG.src =texturePath;// 'excavator.jpg';'defaultN.jpg'
-        this.IMGN=new Image();  // Create the image object
-        //  if(texturePath1)
-        // this.IMGN.src =texturePath1;// 'excavator_normal.jpg';
-        // else
-        this.IMGN.crossOrigin = '';// 'excavator_normal.jpg';
-        this.IMGN.src =null;// 'excavator_normal.jpg';
-    }
 
+    }
+    this.IMGN=new Image();  // Create the image object
+    //  if(texturePath1)
+    // this.IMGN.src =texturePath1;// 'excavator_normal.jpg';
+    // else
+    this.IMGN.crossOrigin = '';// 'excavator_normal.jpg';
+    this.IMGN.src =DefaultN_img;// 'excavator_normal.jpg';
 
 
     //return (this.Parent==null?this.LocalTransform:this.LocalTransform.multiply(this.Parent.GetMvpMatrix()));
