@@ -26,7 +26,7 @@
       <file leaf-file-name="excavator.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/excavator.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="13" selection-start="1313" selection-end="1313" vertical-scroll-proportion="-13.5" vertical-offset="21" max-vertical-offset="893">
+            <state line="21" column="13" selection-start="1313" selection-end="1313" vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="893">
               <folding />
             </state>
           </provider>
@@ -35,16 +35,60 @@
       <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="19" selection-start="170" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="589">
+            <state line="10" column="19" selection-start="170" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="589">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="excavator.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="excavator.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/excavator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="592" column="11" selection-start="24238" selection-end="24238" vertical-scroll-proportion="0.6572717" vertical-offset="10646" max-vertical-offset="11590">
+            <state line="197" column="8" selection-start="7821" selection-end="7826" vertical-scroll-proportion="0.0" vertical-offset="3743" max-vertical-offset="11609">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeoData.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GeoData.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1310" column="0" selection-start="273017" selection-end="273017" vertical-scroll-proportion="0.6426077" vertical-offset="968" max-vertical-offset="2147">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#204901#212842#0" expanded="false" />
+                <element signature="e#212870#213158#0" expanded="false" />
+                <element signature="e#213182#213939#0" expanded="false" />
+                <element signature="e#214011#218554#0" expanded="false" />
+                <element signature="e#218628#221608#0" expanded="false" />
+                <element signature="e#221671#224032#0" expanded="false" />
+                <element signature="e#224105#228699#0" expanded="false" />
+                <element signature="e#228751#229190#0" expanded="false" />
+                <element signature="e#229243#229683#0" expanded="false" />
+                <element signature="e#229748#235529#0" expanded="false" />
+                <element signature="e#235598#236170#0" expanded="false" />
+                <element signature="e#236245#236813#0" expanded="false" />
+                <element signature="e#236884#237406#0" expanded="false" />
+                <element signature="e#237472#253208#0" expanded="false" />
+                <element signature="e#253243#258140#0" expanded="false" />
+                <element signature="e#258160#258569#0" expanded="false" />
+                <element signature="e#258623#259033#0" expanded="false" />
+                <element signature="e#259137#264773#0" expanded="false" />
+                <element signature="e#264810#265254#0" expanded="false" />
+                <element signature="e#265293#265735#0" expanded="false" />
+                <element signature="e#265778#266223#0" expanded="false" />
+                <element signature="e#266262#266706#0" expanded="false" />
+                <element signature="e#266749#267196#0" expanded="false" />
+                <element signature="e#267304#273008#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeoDefinition.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GeoDefinition.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="551">
               <folding />
             </state>
           </provider>
@@ -73,10 +117,10 @@
         <option value="$PROJECT_DIR$/excavator.html" />
         <option value="$PROJECT_DIR$/materials.js" />
         <option value="$PROJECT_DIR$/Input.js" />
-        <option value="$PROJECT_DIR$/GeoData.js" />
         <option value="$PROJECT_DIR$/GeoDefinition.js" />
         <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/excavator.js" />
+        <option value="$PROJECT_DIR$/GeoData.js" />
       </list>
     </option>
   </component>
@@ -112,20 +156,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="005ProjectC">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -146,6 +176,20 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="005ProjectC">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,14 +205,6 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -179,15 +215,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -216,7 +260,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -231,11 +275,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32473117" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32486632" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -252,9 +296,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16276124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -515,11 +559,6 @@
         <state line="173" column="1" selection-start="2964" selection-end="2964" vertical-scroll-proportion="0.0" vertical-offset="3287" max-vertical-offset="4142" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeoData.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="283" column="18" selection-start="13674" selection-end="13674" vertical-scroll-proportion="-0.05263158" vertical-offset="5377" max-vertical-offset="25308" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Camera.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="6" selection-start="1689" selection-end="1689" vertical-scroll-proportion="1.1578947" vertical-offset="57" max-vertical-offset="1729" />
@@ -530,21 +569,9 @@
         <state line="10" column="35" selection-start="280" selection-end="280" vertical-scroll-proportion="0.2631579" vertical-offset="0" max-vertical-offset="722" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeoDefinition.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="32" selection-start="575" selection-end="575" vertical-scroll-proportion="0.42105263" vertical-offset="0" max-vertical-offset="722" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/materials.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="88" selection-start="265" selection-end="265" vertical-scroll-proportion="0.13157895" vertical-offset="0" max-vertical-offset="722" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excavator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="13" selection-start="1313" selection-end="1313" vertical-scroll-proportion="-13.5" vertical-offset="21" max-vertical-offset="893">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles.css">
@@ -554,10 +581,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/excavator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="13" selection-start="1313" selection-end="1313" vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="893">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/excavator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="592" column="11" selection-start="24238" selection-end="24238" vertical-scroll-proportion="0.6572717" vertical-offset="10646" max-vertical-offset="11590">
+        <state line="197" column="8" selection-start="7821" selection-end="7826" vertical-scroll-proportion="0.0" vertical-offset="3743" max-vertical-offset="11609">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeoDefinition.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="551">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeoData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1310" column="0" selection-start="273017" selection-end="273017" vertical-scroll-proportion="0.6426077" vertical-offset="968" max-vertical-offset="2147">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#204901#212842#0" expanded="false" />
+            <element signature="e#212870#213158#0" expanded="false" />
+            <element signature="e#213182#213939#0" expanded="false" />
+            <element signature="e#214011#218554#0" expanded="false" />
+            <element signature="e#218628#221608#0" expanded="false" />
+            <element signature="e#221671#224032#0" expanded="false" />
+            <element signature="e#224105#228699#0" expanded="false" />
+            <element signature="e#228751#229190#0" expanded="false" />
+            <element signature="e#229243#229683#0" expanded="false" />
+            <element signature="e#229748#235529#0" expanded="false" />
+            <element signature="e#235598#236170#0" expanded="false" />
+            <element signature="e#236245#236813#0" expanded="false" />
+            <element signature="e#236884#237406#0" expanded="false" />
+            <element signature="e#237472#253208#0" expanded="false" />
+            <element signature="e#253243#258140#0" expanded="false" />
+            <element signature="e#258160#258569#0" expanded="false" />
+            <element signature="e#258623#259033#0" expanded="false" />
+            <element signature="e#259137#264773#0" expanded="false" />
+            <element signature="e#264810#265254#0" expanded="false" />
+            <element signature="e#265293#265735#0" expanded="false" />
+            <element signature="e#265778#266223#0" expanded="false" />
+            <element signature="e#266262#266706#0" expanded="false" />
+            <element signature="e#266749#267196#0" expanded="false" />
+            <element signature="e#267304#273008#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
