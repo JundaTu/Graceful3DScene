@@ -44,51 +44,53 @@
       <file leaf-file-name="excavator.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/excavator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="197" column="8" selection-start="7821" selection-end="7826" vertical-scroll-proportion="0.0" vertical-offset="3743" max-vertical-offset="11609">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GeoData.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GeoData.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1310" column="0" selection-start="273017" selection-end="273017" vertical-scroll-proportion="-19.714285" vertical-offset="968" max-vertical-offset="2147">
+            <state line="348" column="85" selection-start="14503" selection-end="14507" vertical-scroll-proportion="-10.357142" vertical-offset="6322" max-vertical-offset="11609">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#204901#212842#0" expanded="false" />
-                <element signature="e#212870#213158#0" expanded="false" />
-                <element signature="e#213182#213939#0" expanded="false" />
-                <element signature="e#214011#218554#0" expanded="false" />
-                <element signature="e#218628#221608#0" expanded="false" />
-                <element signature="e#221671#224032#0" expanded="false" />
-                <element signature="e#224105#228699#0" expanded="false" />
-                <element signature="e#228751#229190#0" expanded="false" />
-                <element signature="e#229243#229683#0" expanded="false" />
-                <element signature="e#229748#235529#0" expanded="false" />
-                <element signature="e#235598#236170#0" expanded="false" />
-                <element signature="e#236245#236813#0" expanded="false" />
-                <element signature="e#236884#237406#0" expanded="false" />
-                <element signature="e#237472#253208#0" expanded="false" />
-                <element signature="e#253243#258140#0" expanded="false" />
-                <element signature="e#258160#258569#0" expanded="false" />
-                <element signature="e#258623#259033#0" expanded="false" />
-                <element signature="e#259137#264773#0" expanded="false" />
-                <element signature="e#264810#265254#0" expanded="false" />
-                <element signature="e#265293#265735#0" expanded="false" />
-                <element signature="e#265778#266223#0" expanded="false" />
-                <element signature="e#266262#266706#0" expanded="false" />
-                <element signature="e#266749#267196#0" expanded="false" />
-                <element signature="e#267304#273008#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GeoDefinition.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GeoData.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GeoData.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="4" selection-start="204901" selection-end="204901" vertical-scroll-proportion="0.37951106" vertical-offset="35" max-vertical-offset="2147">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#204901#212812#0" expanded="false" />
+                <element signature="e#212840#213128#0" expanded="false" />
+                <element signature="e#213152#213909#0" expanded="false" />
+                <element signature="e#213981#218524#0" expanded="false" />
+                <element signature="e#218598#221578#0" expanded="false" />
+                <element signature="e#221641#224002#0" expanded="false" />
+                <element signature="e#224075#228669#0" expanded="false" />
+                <element signature="e#228721#229160#0" expanded="false" />
+                <element signature="e#229213#229653#0" expanded="false" />
+                <element signature="e#229718#235499#0" expanded="false" />
+                <element signature="e#235568#236140#0" expanded="false" />
+                <element signature="e#236215#236783#0" expanded="false" />
+                <element signature="e#236854#237376#0" expanded="false" />
+                <element signature="e#237442#253178#0" expanded="false" />
+                <element signature="e#253213#258110#0" expanded="false" />
+                <element signature="e#258130#258539#0" expanded="false" />
+                <element signature="e#258593#259003#0" expanded="false" />
+                <element signature="e#259107#264743#0" expanded="false" />
+                <element signature="e#264780#265224#0" expanded="false" />
+                <element signature="e#265263#265705#0" expanded="false" />
+                <element signature="e#265748#266193#0" expanded="false" />
+                <element signature="e#266232#266676#0" expanded="false" />
+                <element signature="e#266719#267166#0" expanded="false" />
+                <element signature="e#267274#272978#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeoDefinition.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GeoDefinition.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="31" selection-start="746" selection-end="746" vertical-scroll-proportion="0.44333333" vertical-offset="0" max-vertical-offset="900">
+            <state line="31" column="12" selection-start="1030" selection-end="1030" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703">
               <folding />
             </state>
           </provider>
@@ -119,8 +121,8 @@
         <option value="$PROJECT_DIR$/Input.js" />
         <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/excavator.js" />
-        <option value="$PROJECT_DIR$/GeoData.js" />
         <option value="$PROJECT_DIR$/GeoDefinition.js" />
+        <option value="$PROJECT_DIR$/GeoData.js" />
       </list>
     </option>
   </component>
@@ -330,7 +332,9 @@
     <entry file="file://$PROJECT_DIR$/excavator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="154" column="67" selection-start="5724" selection-end="5724" vertical-scroll-proportion="0.0" vertical-offset="2394" max-vertical-offset="11609">
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -344,7 +348,9 @@
     <entry file="file://$PROJECT_DIR$/excavator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="104" column="0" selection-start="3781" selection-end="3781" vertical-scroll-proportion="0.0" vertical-offset="1976" max-vertical-offset="8360">
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -378,7 +384,9 @@
     <entry file="file://$PROJECT_DIR$/excavator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="104" column="0" selection-start="3781" selection-end="3781" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8360">
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -412,7 +420,9 @@
     <entry file="file://$PROJECT_DIR$/excavator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="341" column="0" selection-start="12877" selection-end="12877" vertical-scroll-proportion="0.0" vertical-offset="6092" max-vertical-offset="8037">
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -441,7 +451,9 @@
     <entry file="file://$PROJECT_DIR$/excavator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="159" column="20" selection-start="5787" selection-end="5787" vertical-scroll-proportion="0.0" vertical-offset="3021" max-vertical-offset="8797">
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -475,7 +487,9 @@
     <entry file="file://$PROJECT_DIR$/excavator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="149" column="44" selection-start="5298" selection-end="5298" vertical-scroll-proportion="0.0" vertical-offset="2831" max-vertical-offset="7695">
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -590,48 +604,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/excavator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="197" column="8" selection-start="7821" selection-end="7826" vertical-scroll-proportion="0.0" vertical-offset="3743" max-vertical-offset="11609">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeoData.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1310" column="0" selection-start="273017" selection-end="273017" vertical-scroll-proportion="-19.714285" vertical-offset="968" max-vertical-offset="2147">
+        <state line="348" column="85" selection-start="14503" selection-end="14507" vertical-scroll-proportion="-10.357142" vertical-offset="6322" max-vertical-offset="11609">
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#204901#212842#0" expanded="false" />
-            <element signature="e#212870#213158#0" expanded="false" />
-            <element signature="e#213182#213939#0" expanded="false" />
-            <element signature="e#214011#218554#0" expanded="false" />
-            <element signature="e#218628#221608#0" expanded="false" />
-            <element signature="e#221671#224032#0" expanded="false" />
-            <element signature="e#224105#228699#0" expanded="false" />
-            <element signature="e#228751#229190#0" expanded="false" />
-            <element signature="e#229243#229683#0" expanded="false" />
-            <element signature="e#229748#235529#0" expanded="false" />
-            <element signature="e#235598#236170#0" expanded="false" />
-            <element signature="e#236245#236813#0" expanded="false" />
-            <element signature="e#236884#237406#0" expanded="false" />
-            <element signature="e#237472#253208#0" expanded="false" />
-            <element signature="e#253243#258140#0" expanded="false" />
-            <element signature="e#258160#258569#0" expanded="false" />
-            <element signature="e#258623#259033#0" expanded="false" />
-            <element signature="e#259137#264773#0" expanded="false" />
-            <element signature="e#264810#265254#0" expanded="false" />
-            <element signature="e#265293#265735#0" expanded="false" />
-            <element signature="e#265778#266223#0" expanded="false" />
-            <element signature="e#266262#266706#0" expanded="false" />
-            <element signature="e#266749#267196#0" expanded="false" />
-            <element signature="e#267304#273008#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GeoDefinition.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="31" selection-start="746" selection-end="746" vertical-scroll-proportion="0.44333333" vertical-offset="0" max-vertical-offset="900">
+        <state line="31" column="12" selection-start="1030" selection-end="1030" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeoData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="4" selection-start="204901" selection-end="204901" vertical-scroll-proportion="0.37951106" vertical-offset="35" max-vertical-offset="2147">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#204901#212812#0" expanded="false" />
+            <element signature="e#212840#213128#0" expanded="false" />
+            <element signature="e#213152#213909#0" expanded="false" />
+            <element signature="e#213981#218524#0" expanded="false" />
+            <element signature="e#218598#221578#0" expanded="false" />
+            <element signature="e#221641#224002#0" expanded="false" />
+            <element signature="e#224075#228669#0" expanded="false" />
+            <element signature="e#228721#229160#0" expanded="false" />
+            <element signature="e#229213#229653#0" expanded="false" />
+            <element signature="e#229718#235499#0" expanded="false" />
+            <element signature="e#235568#236140#0" expanded="false" />
+            <element signature="e#236215#236783#0" expanded="false" />
+            <element signature="e#236854#237376#0" expanded="false" />
+            <element signature="e#237442#253178#0" expanded="false" />
+            <element signature="e#253213#258110#0" expanded="false" />
+            <element signature="e#258130#258539#0" expanded="false" />
+            <element signature="e#258593#259003#0" expanded="false" />
+            <element signature="e#259107#264743#0" expanded="false" />
+            <element signature="e#264780#265224#0" expanded="false" />
+            <element signature="e#265263#265705#0" expanded="false" />
+            <element signature="e#265748#266193#0" expanded="false" />
+            <element signature="e#266232#266676#0" expanded="false" />
+            <element signature="e#266719#267166#0" expanded="false" />
+            <element signature="e#267274#272978#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

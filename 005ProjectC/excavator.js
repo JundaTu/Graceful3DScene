@@ -334,7 +334,7 @@ function drawSegment(gl,GeoObj){
     // Pass the transformation matrix for normals to u_NormalMatrix
     gl.uniformMatrix4fv(u_NormalMatrix, false, normalMatrix.elements);
     // Set the texture image and material
-    if(GeoObj.IMG.width !=0)
+    if(GeoObj.IMG != null)
     {   gl.activeTexture(gl.TEXTURE0);
        // Bind the texture object to the target
        gl.bindTexture(gl.TEXTURE_2D, texture0);

@@ -18,8 +18,7 @@
     var GeoList=new Array();
 ///Geometry GeoSphere01
     {
-        var GeoSphere01= new GeoSegment();
-        GeoSphere01.IMG.src=DefaultN_img;
+        var GeoSphere01= new GeoSegment(DefaultN_img);
        // GeoSphere01.IMGN.src=DefaultN_img;
         GeoSphere01.Material=MaterialSet.metal;
         GeoSphere01.Vertices=new Float32Array ([
